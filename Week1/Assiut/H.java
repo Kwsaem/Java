@@ -1,3 +1,5 @@
+package Week1.Assiut;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 

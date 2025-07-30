@@ -1,5 +1,5 @@
+package Week1.Assiut;
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or

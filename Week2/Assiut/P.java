@@ -1,3 +1,5 @@
+package Week2.Assiut;
+
 import java.util.Scanner;
 
 public class P {
