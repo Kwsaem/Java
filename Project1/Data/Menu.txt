@@ -1,0 +1,10 @@
+Orange, 40 EGP
+Apple, 40 EGP
+Pineapple, 40 EGP
+Watermelon, 35 EGP
+Grape, 40 EGP
+Lemon, 30 EGP
+Mango, 45 EGP
+Pomegranate, 50 EGP
+Sugarcane, 20 EGP
+Avocado, 70 EGP
